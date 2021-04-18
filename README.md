@@ -1,6 +1,13 @@
-# Enviando um email com NODEMAILER
+# Sending a email with nodemailer.
 
-You can clone this project.
+## You need for this project.
+
+#### Node and a Node Package Manager installed on your machine.
+
+You can clone this project using.
+```
+    git clone https://github.com/colligii/nodemailer.git
+```
 
 First you have to add some enviroment variables.
 
