@@ -4,6 +4,8 @@
 
 #### Node and a Node Package Manager installed on your machine.
 
+# Cloning and running the project.
+
 You can clone this project using.
 ```
     git clone https://github.com/colligii/nodemailer.git
