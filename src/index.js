@@ -26,11 +26,11 @@ app.post('/sendEmail',async (req, res)=>{
 
   
     await transporter.sendMail({
-        from: '_colli.gi',
+        from: 'anyone',
         to: email,
-        subject: "Olá como você esta?? ✔",
-        text: "Tudo Bem",
-        html: "<b>Somente um teste <i>kappa</i></b>"
+        subject: "Lorem ipsum",
+        text: "Lorem Ipsum",
+        html: "<b>Lorem Ipsum <i>Lorem ipsum</i></b>"
     })
 
     res.send()
