@@ -35,6 +35,11 @@ or
 ```
     yarn start
 ```
+To send a email you can acces on your machine: 
+http://localhost:3000/sendEmail and add a email on txt field and submit by clicking on the button.
+
+To send a email you can acces on another machines: 
+http://<THE_IP_ADDRES_OF_YOUR_MACHINE>:3000/sendEmail and add a email on txt field and submit by clicking on the button.
 
 you can also modify the code to just editing src/index.js file
 
